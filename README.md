@@ -1,5 +1,5 @@
 # Algorithms Illuminated - Part 2
- This is the implementation of 2nd Part in 3-Part Series of Algorithms Illuminated Book. All Implementations in this repository are written in both Python and Golang. Single IPython Notebook contains all Algorithms given in this Part 2. 
+ This is the implementation of 2nd Part in 3-Part Series of Algorithms Illuminated Book. All Implementations in this repository are written in both Python and Golang. Single IPython Notebook contains all Algorithms given in this Part 2. <br> 
  This Book Series is also available as Algorithms Specialization by Tim Roughgarden on Coursera. If needed, please check this below link: https://www.coursera.org/specializations/algorithms
 ## Topics Covered:
 1. Graph Representation in Adjacency List Format
