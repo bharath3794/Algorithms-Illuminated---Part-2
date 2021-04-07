@@ -18,3 +18,10 @@
 14. Binary Search Trees: Supported Operations
 15. Application: Median Maintenance using Search Tree
 16. Two-Sum Problem using HashMap and Recursion
+
+## Requirements:
+Tested on
+```
+python v3.7
+go v1.14
+```
